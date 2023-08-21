@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="app-ibank-build-for-testers">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/artifacts/app-ibank-build-for-testers.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
